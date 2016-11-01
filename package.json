@@ -1,0 +1,17 @@
+{
+  "name": "artnet-observable",
+  "description": "Receive artnet packages via rx",
+  "author": [
+    {
+      "name": "Christian Blaschke",
+      "email": "mail@platdesign.de",
+      "url": "https://github.com/platdesign"
+    }
+  ],
+  "version": "0.0.0",
+  "dependencies": {
+    "hoek": "^4.1.0",
+    "rx": "^4.1.0"
+  },
+  "repository": ""
+}
