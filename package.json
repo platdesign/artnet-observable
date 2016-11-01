@@ -1,6 +1,6 @@
 {
   "name": "artnet-observable",
-  "description": "Receive artnet packages via rx",
+  "description": "Receive parsed Art-Net packages through a rx-Observable.",
   "author": [
     {
       "name": "Christian Blaschke",
@@ -13,5 +13,5 @@
     "hoek": "^4.1.0",
     "rx": "^4.1.0"
   },
-  "repository": ""
+  "repository": "git@github.com:platdesign/artnet-observable.git"
 }
